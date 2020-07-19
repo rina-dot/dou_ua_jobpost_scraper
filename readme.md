@@ -1,0 +1,1 @@
+# Project that scrapes dou.ua for new job posts
