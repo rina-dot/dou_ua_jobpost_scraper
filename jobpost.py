@@ -1,0 +1,3 @@
+class Jobpost:
+    title=''
+    url=''
